@@ -1,0 +1,82 @@
+#container{
+  display:flex;
+  justify-content:space-between ;
+}
+
+.flex-container {
+  display: flex;
+  background-color: rgb(200, 215, 231);
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+h1 {
+  font-family: Georgia, serif;
+}
+
+img {
+  border-radius:80px;
+  border: 3px solid black;
+  width:150px
+}
+
+h2 {
+  font-family:sans-serif;
+  font-size:20px;
+}
+
+h2 {
+  padding: 10px;
+  background-color: rgb(128, 199, 195);
+}
+
+.career-objective {
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.Education {
+  border: 2px solid black;
+  margin-bottom:10px;
+}
+
+.Qualification {
+  border: 2px solid black;
+  margin-bottom:10px;
+}
+
+.Experience {
+  border: 2px solid black;
+  margin-bottom:10px;
+
+}
+
+.Skills {
+  border: 2px solid black;
+  margin-bottom:10px;
+
+}
+
+
+.box{
+  padding:50px;background:rgba 26, 25, 255, 0.5);
+}
+
+body {
+  background-color: rgb(164, 225, 241);
+}
+
+.Intro-border {
+  border: 2px solid black;
+  margin-bottom:10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+}
+
+m
